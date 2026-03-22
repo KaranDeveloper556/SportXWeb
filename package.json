@@ -1,0 +1,17 @@
+{
+  "name": "sportxweb",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev" : "npx nodemon",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Karan Bohra",
+  "license": "ISC",
+  "description": "Project made for understanding the deapth concepts of WebSockets.",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
